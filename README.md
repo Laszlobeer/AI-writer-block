@@ -1,5 +1,5 @@
 # 📝 AI Writer's Block Helper
-[![logo](logo.png)]
+![logo](logo.png)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-brightgreen.svg)](https://www.riverbankcomputing.com/software/pyqt/)
